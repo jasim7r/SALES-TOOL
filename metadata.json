@@ -1,0 +1,6 @@
+{
+  "name": "RevIntel Studio",
+  "description": "Enterprise RevOps intelligence platform for autonomous lead enrichment, AI-matched case studies, dynamic cold call script generation, and Google Meet integrated outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
